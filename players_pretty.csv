@@ -1,0 +1,275 @@
+name,team_code,team_name,pos,credits,min_proj,pts,reb,ast,stl,blk,tov,pdk,gp,min_total
+Matt Thomas,BER,ALBA Berlin,G,0.0,24.1,258.0,43.0,32.0,9.0,1.0,38.0,205.9,21.0,506.0
+Martin Hermannsson,BER,ALBA Berlin,G,0.0,21.79,229.0,38.0,137.0,14.0,0.0,54.0,263.2,24.0,523.0
+Elias Rapieque,BER,ALBA Berlin,F,0.0,15.04,113.0,58.0,34.0,17.0,0.0,28.0,71.9,27.0,406.0
+Louis Olinde,BER,ALBA Berlin,F,0.0,19.04,129.0,65.0,26.0,7.0,11.0,19.0,119.5,23.0,438.0
+Tim Schneider,BER,ALBA Berlin,F,0.0,19.62,179.0,105.0,14.0,13.0,8.0,28.0,147.4,32.0,628.0
+Jonas Mattisseck,BER,ALBA Berlin,G,0.0,13.34,71.0,22.0,16.0,15.0,0.0,10.0,15.8,29.0,387.0
+Malte Delow,BER,ALBA Berlin,G,0.0,18.22,132.0,61.0,37.0,19.0,4.0,16.0,138.2,23.0,419.0
+Yanni Wetzell,BER,ALBA Berlin,F,0.0,20.86,314.0,124.0,45.0,21.0,6.0,43.0,324.4,28.0,584.0
+Gabriele Procida,BER,ALBA Berlin,F,0.0,20.5,253.0,58.0,21.0,19.0,9.0,31.0,207.3,26.0,533.0
+Matteo Spagnolo,BER,ALBA Berlin,G,0.0,20.74,259.0,54.0,101.0,13.0,1.0,58.0,244.2,27.0,560.0
+Justin Bean,BER,ALBA Berlin,F,0.0,19.77,76.0,62.0,13.0,9.0,5.0,9.0,126.0,13.0,257.0
+Amon Doerries,BER,ALBA Berlin,F,0.0,6.8,6.0,2.0,0.0,1.0,0.0,3.0,5.1,5.0,34.0
+Anton Nufer,BER,ALBA Berlin,G,0.0,4.4,4.0,2.0,0.0,0.0,0.0,3.0,0.2,5.0,22.0
+Dorian Grosber,BER,ALBA Berlin,F,0.0,3.0,2.0,0.0,0.0,1.0,0.0,1.0,-0.7,2.0,6.0
+Will Mcdowell-white,BER,ALBA Berlin,G,0.0,19.05,126.0,38.0,83.0,14.0,2.0,28.0,156.6,22.0,419.0
+David Mccormack,BER,ALBA Berlin,C,0.0,16.32,236.0,130.0,16.0,23.0,3.0,47.0,272.2,28.0,457.0
+Robert Baker Ii,BER,ALBA Berlin,F,0.0,14.14,43.0,19.0,2.0,3.0,2.0,1.0,40.5,7.0,99.0
+Shane Larkin,EFS,Anadolu Efes Istanbul,G,0.0,26.21,328.0,72.0,127.0,33.0,1.0,49.0,463.5,28.0,734.0
+Vincent Poirier,EFS,Anadolu Efes Istanbul,C,0.0,21.36,370.0,194.0,47.0,22.0,50.0,37.0,550.8,39.0,833.0
+Darius Thompson,EFS,Anadolu Efes Istanbul,G,0.0,26.33,370.0,77.0,175.0,36.0,17.0,47.0,486.1,39.0,1027.0
+Rolands Smits,EFS,Anadolu Efes Istanbul,F,0.0,18.15,267.0,96.0,36.0,11.0,3.0,37.0,278.8,39.0,708.0
+Elijah Bryant,EFS,Anadolu Efes Istanbul,G,0.0,27.03,526.0,161.0,119.0,44.0,9.0,85.0,582.3,38.0,1027.0
+Rodrigue Beaubois,EFS,Anadolu Efes Istanbul,G,0.0,18.88,293.0,47.0,53.0,24.0,10.0,17.0,286.8,33.0,623.0
+Erkan Yilmaz,EFS,Anadolu Efes Istanbul,F,0.0,4.31,21.0,13.0,9.0,8.0,1.0,2.0,40.6,13.0,56.0
+Ridvan Oncel,EFS,Anadolu Efes Istanbul,G,0.0,7.0,4.0,0.0,1.0,1.0,0.0,3.0,3.2,2.0,14.0
+Derek Willis,EFS,Anadolu Efes Istanbul,F,0.0,11.52,85.0,65.0,10.0,10.0,7.0,13.0,123.9,27.0,311.0
+Pj Dozier,EFS,Anadolu Efes Istanbul,G,0.0,18.44,150.0,40.0,52.0,12.0,5.0,29.0,171.4,18.0,332.0
+Ercan Osmani,EFS,Anadolu Efes Istanbul,F,0.0,16.59,253.0,113.0,39.0,18.0,7.0,39.0,287.5,39.0,647.0
+Dan Oturu,EFS,Anadolu Efes Istanbul,C,0.0,16.58,333.0,158.0,20.0,18.0,39.0,41.0,447.8,38.0,630.0
+Dogus Ozdemiroglu,EFS,Anadolu Efes Istanbul,G,0.0,5.8,19.0,5.0,5.0,4.0,0.0,3.0,10.7,10.0,58.0
+Stanley Johnson,EFS,Anadolu Efes Istanbul,F,0.0,7.82,33.0,19.0,5.0,6.0,1.0,6.0,22.1,17.0,133.0
+Jordan Nwora,EFS,Anadolu Efes Istanbul,F,0.0,16.81,281.0,122.0,29.0,19.0,6.0,48.0,269.9,37.0,622.0
+Petr Cornelie,ASM,AS Monaco,F,4.0,9.88,49.0,35.0,11.0,6.0,1.0,6.0,70.2,17.0,168.0
+Georgios Papagiannis,ASM,AS Monaco,C,8.5,16.52,211.0,99.0,15.0,14.0,39.0,18.0,273.8,29.0,479.0
+Mam Jaiteh,ASM,AS Monaco,C,8.2,14.65,234.0,123.0,18.0,14.0,8.0,34.0,297.8,31.0,454.0
+Nick Calathes,ASM,AS Monaco,G,6.3,17.54,48.0,29.0,50.0,11.0,1.0,19.0,62.7,13.0,228.0
+Mike James,ASM,AS Monaco,G,17.4,29.34,653.0,121.0,236.0,45.0,2.0,77.0,759.3,41.0,1203.0
+Matthew Strazel,ASM,AS Monaco,G,8.1,20.24,341.0,50.0,98.0,21.0,1.0,43.0,352.5,41.0,830.0
+Donatas Motiejunas,ASM,AS Monaco,C,6.7,14.72,186.0,91.0,27.0,10.0,8.0,26.0,233.5,29.0,427.0
+Alpha Diallo,ASM,AS Monaco,F,11.6,26.57,403.0,140.0,61.0,36.0,11.0,42.0,455.7,35.0,930.0
+Jaron Blossomgame,ASM,AS Monaco,F,9.2,24.08,309.0,165.0,21.0,18.0,7.0,18.0,387.9,40.0,963.0
+Jordan Loyd,ASM,AS Monaco,G,8.5,21.2,329.0,101.0,60.0,21.0,4.0,38.0,335.9,35.0,742.0
+Elie Okobo,ASM,AS Monaco,G,12.4,25.17,437.0,65.0,144.0,37.0,6.0,63.0,501.0,35.0,881.0
+Juhann Begarin,ASM,AS Monaco,G,4.0,4.3,6.0,12.0,2.0,1.0,0.0,4.0,-4.1,10.0,43.0
+Terry Tarpey,ASM,AS Monaco,G,4.0,11.57,51.0,52.0,10.0,22.0,7.0,1.0,98.4,23.0,266.0
+Vitto Brown,ASM,AS Monaco,F,4.2,13.7,102.0,58.0,15.0,10.0,5.0,12.0,111.9,23.0,315.0
+Daniel Theis,ASM,AS Monaco,C,11.5,22.8,176.0,82.0,11.0,4.0,11.0,26.0,201.3,15.0,342.0
+Pavel Savkov,BKN,Baskonia Vitoria-Gasteiz,F,0.0,4.33,11.0,3.0,0.0,0.0,0.0,2.0,1.4,6.0,26.0
+Chima Moneke,BKN,Baskonia Vitoria-Gasteiz,F,0.0,28.21,462.0,200.0,76.0,29.0,9.0,61.0,641.2,33.0,931.0
+Timothe Luwawu-cabarrot,BKN,Baskonia Vitoria-Gasteiz,F,0.0,24.92,259.0,82.0,53.0,20.0,4.0,52.0,200.0,26.0,648.0
+Joseba Querejeta,BKN,Baskonia Vitoria-Gasteiz,G,0.0,2.5,2.0,0.0,2.0,0.0,0.0,2.0,-0.5,2.0,5.0
+Ousmane Ndiaye,BKN,Baskonia Vitoria-Gasteiz,C,0.0,9.58,31.0,31.0,5.0,2.0,4.0,3.0,44.3,12.0,115.0
+Sander Raieste,BKN,Baskonia Vitoria-Gasteiz,F,0.0,9.57,37.0,11.0,9.0,3.0,1.0,6.0,23.1,14.0,134.0
+Tadas Sedekerskis,BKN,Baskonia Vitoria-Gasteiz,F,0.0,24.4,184.0,119.0,42.0,8.0,5.0,23.0,302.6,25.0,610.0
+Markus Howard,BKN,Baskonia Vitoria-Gasteiz,G,0.0,22.34,387.0,42.0,48.0,11.0,0.0,46.0,213.8,32.0,715.0
+Ognjen Jaramaz,BKN,Baskonia Vitoria-Gasteiz,G,0.0,10.09,43.0,12.0,36.0,10.0,1.0,13.0,33.9,22.0,222.0
+Donta Hall,BKN,Baskonia Vitoria-Gasteiz,C,0.0,21.5,297.0,182.0,30.0,18.0,38.0,25.0,510.1,34.0,731.0
+Khalifa Diop,BKN,Baskonia Vitoria-Gasteiz,C,0.0,14.47,131.0,116.0,15.0,11.0,16.0,23.0,194.6,32.0,463.0
+Kamar Baldwin,BKN,Baskonia Vitoria-Gasteiz,G,0.0,21.4,178.0,42.0,93.0,22.0,5.0,23.0,171.3,25.0,535.0
+Nikolaos Rogkavopoulos,BKN,Baskonia Vitoria-Gasteiz,F,0.0,18.73,320.0,129.0,32.0,16.0,2.0,18.0,330.0,33.0,618.0
+Trent Forrest,BKN,Baskonia Vitoria-Gasteiz,G,0.0,24.79,329.0,95.0,160.0,28.0,8.0,66.0,415.6,34.0,843.0
+Luka Samanic,BKN,Baskonia Vitoria-Gasteiz,C,0.0,15.2,136.0,48.0,16.0,7.0,7.0,18.0,133.4,15.0,228.0
+Milos Teodosic,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,12.32,90.0,18.0,52.0,5.0,1.0,22.0,77.3,19.0,234.0
+Nikola Kalinic,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,27.2,316.0,146.0,91.0,29.0,6.0,59.0,428.6,35.0,952.0
+Joel Bolomboy,CZV,Crvena Zvezda Meridianbet Belgrade,C,0.0,24.28,183.0,151.0,11.0,17.0,15.0,25.0,318.5,18.0,437.0
+Isaiah Canaan,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,21.03,349.0,52.0,46.0,21.0,1.0,32.0,249.9,35.0,736.0
+Filip Petrusev,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,20.16,415.0,147.0,50.0,23.0,16.0,40.0,495.4,32.0,645.0
+Nemanja Nedovic,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,18.59,248.0,39.0,77.0,13.0,2.0,36.0,237.9,27.0,502.0
+Ognjen Dobric,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,11.07,94.0,29.0,12.0,13.0,2.0,17.0,66.7,27.0,299.0
+Branko Lazic,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,5.4,11.0,8.0,1.0,3.0,0.0,2.0,13.8,10.0,54.0
+Luka Mitrovic,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,12.56,141.0,73.0,24.0,6.0,6.0,24.0,196.2,25.0,314.0
+Rokas Giedraitis,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,15.79,162.0,69.0,26.0,24.0,5.0,9.0,181.1,34.0,537.0
+John Brown Iii,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,14.82,68.0,45.0,15.0,12.0,0.0,7.0,108.0,17.0,252.0
+Yago Dos Santos,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,16.26,220.0,55.0,114.0,17.0,0.0,42.0,274.2,35.0,569.0
+Dejan Davidovac,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,12.54,107.0,49.0,15.0,10.0,5.0,9.0,133.0,28.0,351.0
+Codi Miller-mcintyre,CZV,Crvena Zvezda Meridianbet Belgrade,G,0.0,25.37,359.0,110.0,160.0,22.0,0.0,74.0,369.0,35.0,888.0
+Mike Daum,CZV,Crvena Zvezda Meridianbet Belgrade,F,0.0,15.05,112.0,52.0,5.0,3.0,2.0,13.0,105.2,19.0,286.0
+Fabien Causeur,EA7,EA7 Emporio Armani Milan,G,0.0,21.0,182.0,61.0,37.0,23.0,3.0,19.0,231.8,22.0,462.0
+Josh Nebo,EA7,EA7 Emporio Armani Milan,C,0.0,19.25,33.0,18.0,3.0,1.0,4.0,4.0,42.6,4.0,77.0
+Nikola Mirotic,EA7,EA7 Emporio Armani Milan,F,0.0,27.5,531.0,192.0,59.0,30.0,10.0,56.0,697.2,30.0,825.0
+Niccolo Mannion,EA7,EA7 Emporio Armani Milan,G,0.0,22.04,230.0,39.0,107.0,20.0,1.0,61.0,227.3,27.0,595.0
+Zach Leday,EA7,EA7 Emporio Armani Milan,F,0.0,27.65,545.0,152.0,40.0,25.0,4.0,44.0,702.7,34.0,940.0
+Shavon Shields,EA7,EA7 Emporio Armani Milan,F,0.0,27.57,335.0,100.0,73.0,19.0,1.0,43.0,391.9,28.0,772.0
+Giampaolo Ricci,EA7,EA7 Emporio Armani Milan,F,0.0,15.12,114.0,79.0,14.0,12.0,7.0,12.0,111.0,32.0,484.0
+Stefano Tonut,EA7,EA7 Emporio Armani Milan,G,0.0,15.41,87.0,52.0,31.0,9.0,2.0,8.0,126.2,27.0,416.0
+Freddie Gillespie,EA7,EA7 Emporio Armani Milan,C,0.0,12.2,58.0,45.0,10.0,10.0,13.0,15.0,76.4,20.0,244.0
+Diego Flaccadori,EA7,EA7 Emporio Armani Milan,G,0.0,8.69,23.0,7.0,14.0,4.0,0.0,6.0,14.6,13.0,113.0
+Giordano Bortolani,EA7,EA7 Emporio Armani Milan,G,0.0,7.75,17.0,3.0,3.0,0.0,1.0,1.0,17.5,4.0,31.0
+Leandro Bolmaro,EA7,EA7 Emporio Armani Milan,G,0.0,22.4,173.0,59.0,77.0,27.0,5.0,29.0,231.9,25.0,560.0
+Guglielmo Caruso,EA7,EA7 Emporio Armani Milan,F,0.0,7.77,58.0,32.0,6.0,4.0,12.0,9.0,63.4,22.0,171.0
+Ousmane Diop,EA7,EA7 Emporio Armani Milan,F,0.0,8.89,65.0,35.0,9.0,6.0,2.0,13.0,67.6,18.0,160.0
+Armoni Brooks,EA7,EA7 Emporio Armani Milan,G,0.0,15.0,244.0,65.0,25.0,16.0,3.0,17.0,208.7,32.0,480.0
+Neno Dimitrijevic,EA7,EA7 Emporio Armani Milan,G,0.0,16.85,204.0,42.0,77.0,11.0,0.0,41.0,184.5,27.0,455.0
+Achille Lonati,EA7,EA7 Emporio Armani Milan,G,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,-2.7,1.0,2.0
+Jan Vesely,BAR,FC Barcelona,C,0.0,21.17,216.0,87.0,46.0,26.0,11.0,22.0,296.0,24.0,508.0
+Kevin Punter,BAR,FC Barcelona,G,0.0,27.08,615.0,81.0,111.0,47.0,1.0,60.0,645.3,37.0,1002.0
+Alex Abrines,BAR,FC Barcelona,F,0.0,17.0,166.0,77.0,26.0,20.0,4.0,12.0,166.9,37.0,629.0
+Nicolas Laprovittola,BAR,FC Barcelona,G,0.0,22.0,40.0,4.0,25.0,4.0,0.0,8.0,56.3,4.0,88.0
+Tomas Satoransky,BAR,FC Barcelona,G,0.0,23.72,232.0,126.0,204.0,37.0,4.0,70.0,401.6,39.0,925.0
+Youssoupha Fall,BAR,FC Barcelona,C,0.0,10.45,128.0,97.0,1.0,2.0,7.0,25.0,162.3,29.0,303.0
+Juan Nunez,BAR,FC Barcelona,G,0.0,15.56,124.0,63.0,84.0,20.0,0.0,33.0,193.3,25.0,389.0
+Joel Parra,BAR,FC Barcelona,F,0.0,14.97,152.0,88.0,19.0,18.0,3.0,11.0,179.8,31.0,464.0
+Jabari Parker,BAR,FC Barcelona,F,0.0,27.21,539.0,156.0,68.0,32.0,9.0,60.0,515.3,39.0,1061.0
+Willy Hernangomez,BAR,FC Barcelona,C,0.0,15.82,280.0,141.0,18.0,19.0,4.0,38.0,387.6,34.0,538.0
+Dario Brizuela,BAR,FC Barcelona,G,0.0,18.33,361.0,50.0,79.0,14.0,3.0,47.0,326.4,36.0,660.0
+Justin Lamar Anderson,BAR,FC Barcelona,F,0.0,19.57,264.0,102.0,51.0,25.0,10.0,20.0,332.0,37.0,724.0
+Chimezie Metu,BAR,FC Barcelona,F,0.0,20.04,263.0,115.0,23.0,15.0,14.0,40.0,300.4,24.0,481.0
+Raul Villar,BAR,FC Barcelona,G,0.0,2.0,3.0,0.0,0.0,0.0,0.0,2.0,-0.9,7.0,14.0
+Mathieu Grujicic,BAR,FC Barcelona,G,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0
+Shabazz Napier,BAY,FC Bayern Munich,G,0.0,20.61,341.0,75.0,106.0,37.0,0.0,62.0,402.9,33.0,680.0
+Niels Giffey,BAY,FC Bayern Munich,F,0.0,18.2,161.0,46.0,23.0,5.0,5.0,19.0,141.7,25.0,455.0
+Carsen Edwards,BAY,FC Bayern Munich,G,0.0,28.83,713.0,82.0,115.0,34.0,2.0,81.0,627.1,35.0,1009.0
+Nick Weiler-babb,BAY,FC Bayern Munich,G,0.0,26.35,280.0,141.0,168.0,52.0,2.0,55.0,468.7,34.0,896.0
+Devin Booker,BAY,FC Bayern Munich,C,0.0,26.25,418.0,132.0,46.0,20.0,6.0,46.0,478.2,28.0,735.0
+Oscar Da Silva,BAY,FC Bayern Munich,F,0.0,15.48,121.0,77.0,12.0,12.0,6.0,19.0,152.3,25.0,387.0
+Johannes Voigtmann,BAY,FC Bayern Munich,C,0.0,23.64,234.0,178.0,87.0,19.0,7.0,53.0,348.2,36.0,851.0
+Elias Harris,BAY,FC Bayern Munich,C,0.0,9.82,114.0,42.0,13.0,4.0,0.0,9.0,131.7,28.0,275.0
+Andreas Obst,BAY,FC Bayern Munich,G,0.0,23.86,368.0,68.0,53.0,19.0,0.0,44.0,270.0,36.0,859.0
+Vladimir Lucic,BAY,FC Bayern Munich,F,0.0,25.69,120.0,77.0,23.0,17.0,0.0,15.0,204.1,16.0,411.0
+Onuralp Bitim,BAY,FC Bayern Munich,G,0.0,8.5,25.0,11.0,1.0,1.0,1.0,9.0,11.5,12.0,102.0
+Danko Brankovic,BAY,FC Bayern Munich,C,0.0,9.12,113.0,56.0,6.0,7.0,13.0,14.0,126.8,26.0,237.0
+Ivan Kharchenkov,BAY,FC Bayern Munich,G,0.0,7.0,66.0,17.0,12.0,4.0,2.0,21.0,32.2,23.0,161.0
+Ivan Volf,BAY,FC Bayern Munich,G,0.0,7.0,4.0,1.0,0.0,0.0,0.0,1.0,4.0,1.0,7.0
+Bonzie Colson,FBB,Fenerbahce Beko Istanbul,F,7.6,18.46,260.0,137.0,21.0,26.0,10.0,30.0,285.6,39.0,720.0
+Wade Baldwin Iv,FBB,Fenerbahce Beko Istanbul,G,11.6,24.22,300.0,72.0,101.0,24.0,3.0,58.0,319.4,27.0,654.0
+Marko Guduric,FBB,Fenerbahce Beko Istanbul,G,10.7,22.03,391.0,94.0,112.0,26.0,2.0,72.0,463.8,36.0,793.0
+Dyshawn Pierre,FBB,Fenerbahce Beko Istanbul,F,5.7,11.56,83.0,51.0,20.0,7.0,4.0,9.0,130.8,25.0,289.0
+Tarik Biberovic,FBB,Fenerbahce Beko Istanbul,F,8.8,22.49,384.0,114.0,52.0,19.0,6.0,45.0,338.8,37.0,832.0
+Nigel Hayes-davis,FBB,Fenerbahce Beko Istanbul,F,17.2,31.33,650.0,206.0,65.0,44.0,13.0,55.0,768.1,39.0,1222.0
+Melih Mahmutoglu,FBB,Fenerbahce Beko Istanbul,G,4.0,5.5,14.0,2.0,1.0,0.0,0.0,2.0,6.3,6.0,33.0
+Scottie Wilbekin,FBB,Fenerbahce Beko Istanbul,G,6.9,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0
+Metecan Birsen,FBB,Fenerbahce Beko Istanbul,F,4.0,3.5,4.0,4.0,0.0,0.0,0.0,1.0,5.7,2.0,7.0
+Sertac Sanli,FBB,Fenerbahce Beko Istanbul,C,5.0,13.06,182.0,80.0,22.0,14.0,15.0,20.0,188.6,33.0,431.0
+Devon Hall,FBB,Fenerbahce Beko Istanbul,G,8.4,23.47,249.0,70.0,106.0,16.0,2.0,41.0,302.9,32.0,751.0
+Nicolo Melli,FBB,Fenerbahce Beko Istanbul,F,8.5,17.29,188.0,154.0,43.0,21.0,15.0,28.0,280.0,38.0,657.0
+Arturs Zagars,FBB,Fenerbahce Beko Istanbul,G,6.0,14.91,129.0,25.0,51.0,9.0,1.0,29.0,136.8,22.0,328.0
+Mert Eksioglu,FBB,Fenerbahce Beko Istanbul,G,0.0,3.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,10.0
+Khem Birch,FBB,Fenerbahce Beko Istanbul,C,6.3,13.67,125.0,132.0,21.0,15.0,15.0,31.0,200.5,36.0,492.0
+Errick Mccollum,FBB,Fenerbahce Beko Istanbul,G,11.3,18.44,200.0,38.0,32.0,10.0,8.0,13.0,219.5,18.0,332.0
+Jilson Bango,FBB,Fenerbahce Beko Istanbul,C,6.7,7.0,27.0,18.0,1.0,2.0,1.0,5.0,33.0,10.0,70.0
+Paris Lee,ASV,LDLC ASVEL Villeurbanne,G,0.0,22.0,215.0,38.0,81.0,21.0,1.0,28.0,190.7,26.0,572.0
+Tarik Black,ASV,LDLC ASVEL Villeurbanne,C,0.0,10.32,104.0,65.0,11.0,4.0,4.0,30.0,96.3,28.0,289.0
+Benjamin Bentil,ASV,LDLC ASVEL Villeurbanne,F,0.0,13.11,40.0,21.0,4.0,2.0,0.0,5.0,34.8,9.0,118.0
+David Lighty,ASV,LDLC ASVEL Villeurbanne,F,0.0,19.45,146.0,59.0,34.0,17.0,2.0,21.0,112.6,33.0,642.0
+Nando De Colo,ASV,LDLC ASVEL Villeurbanne,G,0.0,20.59,368.0,55.0,143.0,24.0,1.0,76.0,436.0,32.0,659.0
+Joffrey Lauvergne,ASV,LDLC ASVEL Villeurbanne,C,0.0,20.26,214.0,94.0,21.0,9.0,4.0,19.0,260.2,19.0,385.0
+Charles Kahudi,ASV,LDLC ASVEL Villeurbanne,F,0.0,12.21,46.0,17.0,2.0,2.0,1.0,10.0,26.1,14.0,171.0
+Mbaye Ndiaye,ASV,LDLC ASVEL Villeurbanne,F,0.0,19.5,101.0,41.0,11.0,9.0,8.0,15.0,105.5,14.0,273.0
+Edwin Jackson,ASV,LDLC ASVEL Villeurbanne,G,0.0,15.05,80.0,32.0,14.0,5.0,0.0,12.0,43.4,22.0,331.0
+Neal Sako,ASV,LDLC ASVEL Villeurbanne,C,0.0,21.97,297.0,203.0,27.0,26.0,16.0,29.0,429.1,33.0,725.0
+Melvin Ajinca,ASV,LDLC ASVEL Villeurbanne,F,0.0,14.44,147.0,32.0,9.0,2.0,0.0,17.0,76.8,27.0,390.0
+Theo Maledon,ASV,LDLC ASVEL Villeurbanne,G,0.0,27.61,561.0,114.0,153.0,33.0,5.0,97.0,713.3,33.0,911.0
+Shaquille Harrison,ASV,LDLC ASVEL Villeurbanne,G,0.0,16.35,177.0,55.0,54.0,39.0,8.0,38.0,154.9,34.0,556.0
+Mbiya Paul,ASV,LDLC ASVEL Villeurbanne,C,0.0,3.83,4.0,6.0,0.0,1.0,3.0,0.0,5.7,6.0,23.0
+Yohann Sissoko,ASV,LDLC ASVEL Villeurbanne,F,0.0,6.8,4.0,7.0,4.0,0.0,0.0,2.0,7.0,5.0,34.0
+Andre Roberson,ASV,LDLC ASVEL Villeurbanne,F,0.0,25.84,210.0,155.0,36.0,29.0,27.0,42.0,271.7,25.0,646.0
+Roman Sorkin,MTA,Maccabi Playtika Tel Aviv,F,0.0,23.36,427.0,135.0,35.0,18.0,16.0,50.0,406.6,33.0,771.0
+Rafi Menco,MTA,Maccabi Playtika Tel Aviv,F,0.0,8.86,40.0,17.0,5.0,2.0,0.0,4.0,36.9,14.0,124.0
+Jasiel Rivero,MTA,Maccabi Playtika Tel Aviv,C,0.0,21.95,204.0,87.0,26.0,16.0,9.0,22.0,256.6,20.0,439.0
+Jake Cohen,MTA,Maccabi Playtika Tel Aviv,F,0.0,9.52,64.0,35.0,10.0,3.0,0.0,14.0,60.5,23.0,219.0
+John Dibartolomeo,MTA,Maccabi Playtika Tel Aviv,G,0.0,17.42,170.0,62.0,22.0,22.0,0.0,8.0,181.2,33.0,575.0
+Rokas Jokubaitis,MTA,Maccabi Playtika Tel Aviv,G,0.0,24.46,353.0,89.0,131.0,28.0,1.0,73.0,452.1,28.0,685.0
+Tamir Blatt,MTA,Maccabi Playtika Tel Aviv,G,0.0,24.19,231.0,62.0,175.0,12.0,0.0,75.0,311.6,26.0,629.0
+Jaylen Hoard,MTA,Maccabi Playtika Tel Aviv,F,0.0,30.62,353.0,121.0,33.0,31.0,6.0,21.0,433.5,24.0,735.0
+Trevion Williams,MTA,Maccabi Playtika Tel Aviv,F,0.0,19.91,314.0,208.0,77.0,19.0,15.0,78.0,364.4,32.0,637.0
+Omer Mayer,MTA,Maccabi Playtika Tel Aviv,G,0.0,8.25,21.0,5.0,16.0,3.0,0.0,12.0,18.4,8.0,66.0
+Levi Randolph,MTA,Maccabi Playtika Tel Aviv,F,0.0,27.73,396.0,126.0,58.0,20.0,0.0,39.0,412.4,33.0,915.0
+William Rayman,MTA,Maccabi Playtika Tel Aviv,F,0.0,11.39,86.0,102.0,5.0,6.0,4.0,6.0,114.6,33.0,376.0
+Marial Shayok,MTA,Maccabi Playtika Tel Aviv,G,0.0,15.1,114.0,41.0,20.0,14.0,0.0,11.0,91.1,20.0,302.0
+Jimmy Clark Iii,MTA,Maccabi Playtika Tel Aviv,G,0.0,19.0,80.0,19.0,32.0,9.0,1.0,20.0,77.2,8.0,152.0
+Tyler Dorsey,OLY,Olympiacos Piraeus,G,4.0,10.1,66.0,19.0,21.0,4.0,1.0,19.0,43.1,20.0,202.0
+Luca Vildoza,OLY,Olympiacos Piraeus,G,5.9,17.67,157.0,49.0,90.0,24.0,3.0,31.0,188.1,33.0,583.0
+Nigel Williams-goss,OLY,Olympiacos Piraeus,G,9.3,22.91,302.0,74.0,119.0,26.0,2.0,63.0,326.2,35.0,802.0
+Shaquielle Mckissic,OLY,Olympiacos Piraeus,G,5.8,16.42,288.0,82.0,62.0,20.0,1.0,38.0,300.0,38.0,624.0
+Alec Peters,OLY,Olympiacos Piraeus,F,9.4,16.42,325.0,105.0,32.0,11.0,2.0,17.0,387.2,40.0,657.0
+Kostas Papanikolaou,OLY,Olympiacos Piraeus,F,6.9,18.76,183.0,107.0,78.0,24.0,12.0,29.0,256.8,38.0,713.0
+Sasha Vezenkov,OLY,Olympiacos Piraeus,F,21.2,30.39,751.0,248.0,70.0,36.0,7.0,41.0,967.1,38.0,1155.0
+Moustapha Fall,OLY,Olympiacos Piraeus,C,8.8,17.37,202.0,101.0,67.0,10.0,28.0,33.0,315.6,35.0,608.0
+Giannoulis Larentzakis,OLY,Olympiacos Piraeus,G,4.0,7.0,45.0,23.0,21.0,4.0,1.0,6.0,67.2,17.0,119.0
+Thomas Walkup,OLY,Olympiacos Piraeus,G,6.7,20.23,103.0,60.0,119.0,26.0,3.0,40.0,201.8,26.0,526.0
+Naz Mitrou-long,OLY,Olympiacos Piraeus,G,4.0,3.0,0.0,1.0,4.0,0.0,0.0,0.0,3.5,4.0,12.0
+Nikola Milutinov,OLY,Olympiacos Piraeus,C,13.2,19.86,237.0,167.0,22.0,17.0,20.0,18.0,449.7,29.0,576.0
+Moses Wright,OLY,Olympiacos Piraeus,C,6.3,12.83,105.0,46.0,11.0,9.0,7.0,19.0,122.5,18.0,231.0
+Evan Fournier,OLY,Olympiacos Piraeus,G,12.9,25.78,595.0,82.0,95.0,40.0,5.0,68.0,505.5,37.0,954.0
+Saben Lee,OLY,Olympiacos Piraeus,G,8.2,17.48,155.0,42.0,46.0,19.0,2.0,34.0,195.6,21.0,367.0
+Lorenzo Brown,PAO,Panathinaikos AKTOR Athens,G,7.5,14.92,238.0,76.0,102.0,29.0,2.0,49.0,309.4,38.0,567.0
+Marius Grigonis,PAO,Panathinaikos AKTOR Athens,G,4.0,11.5,12.0,3.0,4.0,0.0,1.0,3.0,11.2,4.0,46.0
+Alexandros Samodurov,PAO,Panathinaikos AKTOR Athens,C,4.0,4.33,11.0,7.0,1.0,0.0,3.0,0.0,17.0,6.0,26.0
+Panagiotis Kalaitzakis,PAO,Panathinaikos AKTOR Athens,F,4.0,7.34,57.0,25.0,12.0,15.0,1.0,11.0,46.2,32.0,235.0
+Mathias Lessort,PAO,Panathinaikos AKTOR Athens,C,15.3,25.47,247.0,125.0,31.0,18.0,13.0,33.0,400.9,19.0,484.0
+Ioannis Papapetrou,PAO,Panathinaikos AKTOR Athens,F,4.0,10.58,74.0,26.0,10.0,10.0,2.0,12.0,66.4,26.0,275.0
+Kostas Sloukas,PAO,Panathinaikos AKTOR Athens,G,12.2,21.74,356.0,77.0,187.0,32.0,3.0,64.0,505.0,39.0,848.0
+Tibor Pleiss,PAO,Panathinaikos AKTOR Athens,C,5.5,4.75,8.0,5.0,2.0,1.0,1.0,1.0,-1.2,8.0,38.0
+Jerian Grant,PAO,Panathinaikos AKTOR Athens,G,10.7,26.85,352.0,87.0,130.0,35.0,3.0,33.0,466.8,41.0,1101.0
+Konstantinos Mitoglou,PAO,Panathinaikos AKTOR Athens,F,6.9,16.15,234.0,114.0,24.0,18.0,4.0,23.0,239.5,39.0,630.0
+Juancho Hernangomez,PAO,Panathinaikos AKTOR Athens,F,14.9,27.32,398.0,278.0,58.0,37.0,13.0,27.0,651.8,40.0,1093.0
+Dimitris Moraitis,PAO,Panathinaikos AKTOR Athens,G,4.0,4.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0
+Kendrick Nunn,PAO,Panathinaikos AKTOR Athens,G,17.4,30.82,802.0,141.0,166.0,39.0,9.0,113.0,805.5,40.0,1233.0
+Omer Yurtseven,PAO,Panathinaikos AKTOR Athens,C,9.1,14.58,260.0,124.0,18.0,12.0,22.0,42.0,309.5,31.0,452.0
+Cedi Osman,PAO,Panathinaikos AKTOR Athens,F,10.4,19.82,375.0,104.0,26.0,18.0,6.0,25.0,349.8,39.0,773.0
+Wenyen Gabriel,PAO,Panathinaikos AKTOR Athens,C,7.8,16.53,191.0,124.0,23.0,19.0,30.0,37.0,239.7,32.0,529.0
+Balsa Koprivica,PAR,Partizan Mozzart Bet Belgrade,C,0.0,8.06,54.0,39.0,5.0,7.0,9.0,8.0,69.2,16.0,129.0
+Iffe Lundberg,PAR,Partizan Mozzart Bet Belgrade,G,0.0,24.92,206.0,58.0,78.0,23.0,0.0,29.0,204.6,26.0,648.0
+Brandon Davies,PAR,Partizan Mozzart Bet Belgrade,C,0.0,18.73,327.0,119.0,50.0,30.0,14.0,46.0,370.3,33.0,618.0
+Vanja Marinkovic,PAR,Partizan Mozzart Bet Belgrade,F,0.0,22.9,154.0,34.0,25.0,12.0,2.0,14.0,114.0,21.0,481.0
+Isaac Bonga,PAR,Partizan Mozzart Bet Belgrade,F,0.0,24.97,230.0,134.0,34.0,22.0,15.0,22.0,307.9,30.0,749.0
+Tyrique Jones,PAR,Partizan Mozzart Bet Belgrade,C,0.0,22.62,371.0,193.0,33.0,34.0,21.0,53.0,541.0,32.0,724.0
+Isiaha Mike,PAR,Partizan Mozzart Bet Belgrade,F,0.0,15.35,89.0,55.0,15.0,13.0,3.0,13.0,98.7,23.0,353.0
+Mitar Bosnjakovic,PAR,Partizan Mozzart Bet Belgrade,F,0.0,9.0,10.0,4.0,3.0,3.0,0.0,1.0,5.0,4.0,36.0
+Sterling Brown,PAR,Partizan Mozzart Bet Belgrade,G,0.0,25.76,422.0,102.0,71.0,27.0,6.0,48.0,416.0,34.0,876.0
+Arijan Lakic,PAR,Partizan Mozzart Bet Belgrade,G,0.0,11.45,17.0,19.0,3.0,2.0,0.0,0.0,21.8,11.0,126.0
+Aleksej Pokusevski,PAR,Partizan Mozzart Bet Belgrade,F,0.0,12.78,104.0,59.0,32.0,16.0,26.0,13.0,133.1,27.0,345.0
+Duane Washington,PAR,Partizan Mozzart Bet Belgrade,G,0.0,14.58,145.0,21.0,33.0,8.0,0.0,17.0,114.8,19.0,277.0
+Frank Ntilikina,PAR,Partizan Mozzart Bet Belgrade,G,0.0,19.9,146.0,35.0,43.0,13.0,0.0,14.0,137.4,21.0,418.0
+Carlik Jones,PAR,Partizan Mozzart Bet Belgrade,G,0.0,26.97,480.0,109.0,182.0,33.0,4.0,61.0,622.2,34.0,917.0
+Mario Nakic,PAR,Partizan Mozzart Bet Belgrade,F,0.0,8.58,25.0,12.0,3.0,3.0,1.0,3.0,24.6,12.0,103.0
+Facundo Campazzo,RMB,Real Madrid,G,0.0,25.74,467.0,119.0,234.0,40.0,2.0,91.0,729.0,39.0,1004.0
+Hugo Gonzalez,RMB,Real Madrid,F,0.0,7.53,58.0,38.0,10.0,3.0,8.0,16.0,39.2,30.0,226.0
+Walter Tavares,RMB,Real Madrid,C,0.0,23.28,408.0,263.0,46.0,27.0,48.0,82.0,647.9,40.0,931.0
+Gabriel Deck,RMB,Real Madrid,F,0.0,23.39,223.0,90.0,39.0,13.0,5.0,29.0,253.2,28.0,655.0
+Dzanan Musa,RMB,Real Madrid,F,0.0,21.8,427.0,101.0,70.0,15.0,5.0,61.0,470.2,35.0,763.0
+Eli Ndiaye,RMB,Real Madrid,C,0.0,13.96,89.0,61.0,12.0,15.0,2.0,6.0,114.1,25.0,349.0
+Sergio Llull,RMB,Real Madrid,G,0.0,17.1,265.0,56.0,87.0,15.0,0.0,28.0,216.3,40.0,684.0
+Mario Hezonja,RMB,Real Madrid,F,0.0,27.05,565.0,201.0,58.0,31.0,5.0,59.0,576.1,38.0,1028.0
+Alberto Abalde,RMB,Real Madrid,F,0.0,18.87,229.0,92.0,66.0,19.0,0.0,20.0,274.0,39.0,736.0
+Andres Feliz,RMB,Real Madrid,G,0.0,14.18,158.0,60.0,52.0,24.0,3.0,22.0,169.0,33.0,468.0
+Serge Ibaka,RMB,Real Madrid,C,0.0,12.31,180.0,93.0,19.0,5.0,15.0,36.0,187.6,29.0,357.0
+Usman Garuba,RMB,Real Madrid,F,0.0,14.11,106.0,84.0,15.0,16.0,12.0,17.0,112.3,27.0,381.0
+Sidi Gueye,RMB,Real Madrid,C,0.0,1.67,2.0,0.0,0.0,0.0,0.0,1.0,1.3,3.0,5.0
+Xavier Rathan-mayes,RMB,Real Madrid,G,0.0,11.96,121.0,21.0,32.0,11.0,1.0,26.0,97.3,23.0,275.0
+Declan Duru,RMB,Real Madrid,F,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.8,1.0,1.0
+Bruno Fernando,RMB,Real Madrid,C,0.0,13.92,60.0,36.0,7.0,5.0,4.0,17.0,69.7,12.0,167.0
+Achille Polonara,VIR,Virtus Segafredo Bologna,F,0.0,16.24,158.0,93.0,29.0,15.0,14.0,16.0,207.5,33.0,536.0
+Tornike Shengelia,VIR,Virtus Segafredo Bologna,F,0.0,27.46,436.0,139.0,75.0,19.0,10.0,71.0,497.3,28.0,769.0
+Daniel Hackett,VIR,Virtus Segafredo Bologna,G,0.0,15.52,77.0,61.0,54.0,11.0,0.0,28.0,94.4,31.0,481.0
+Marco Belinelli,VIR,Virtus Segafredo Bologna,G,0.0,13.73,185.0,14.0,27.0,9.0,1.0,18.0,77.2,30.0,412.0
+Alessandro Pajola,VIR,Virtus Segafredo Bologna,G,0.0,23.6,164.0,72.0,123.0,35.0,4.0,38.0,226.5,30.0,708.0
+Isaia Cordinier,VIR,Virtus Segafredo Bologna,G,0.0,26.91,409.0,132.0,132.0,23.0,9.0,69.0,475.4,34.0,915.0
+Ante Zizic,VIR,Virtus Segafredo Bologna,C,0.0,16.48,201.0,95.0,8.0,8.0,16.0,21.0,245.4,25.0,412.0
+Will Clyburn,VIR,Virtus Segafredo Bologna,F,0.0,27.42,330.0,113.0,57.0,26.0,5.0,34.0,380.3,24.0,658.0
+Nicola Akele,VIR,Virtus Segafredo Bologna,F,0.0,9.71,51.0,26.0,1.0,5.0,1.0,5.0,58.9,17.0,165.0
+Andrejs Grazulis,VIR,Virtus Segafredo Bologna,F,0.0,13.05,104.0,29.0,11.0,4.0,3.0,11.0,59.9,21.0,274.0
+Matthew Morgan,VIR,Virtus Segafredo Bologna,G,0.0,18.65,266.0,59.0,87.0,18.0,1.0,34.0,270.7,34.0,634.0
+Mouhamet Diouf,VIR,Virtus Segafredo Bologna,C,0.0,15.84,193.0,97.0,13.0,20.0,12.0,21.0,249.7,31.0,491.0
+Justin Holiday,VIR,Virtus Segafredo Bologna,G,0.0,15.44,37.0,19.0,5.0,6.0,2.0,8.0,28.3,9.0,139.0
+Edgaras Ulanovas,ZAL,Zalgiris Kaunas,F,0.0,22.35,223.0,97.0,62.0,17.0,2.0,31.0,290.8,34.0,760.0
+Arnas Butkevicius,ZAL,Zalgiris Kaunas,F,0.0,22.0,147.0,122.0,38.0,34.0,10.0,24.0,227.2,33.0,726.0
+Ignas Brazdeikis,ZAL,Zalgiris Kaunas,G,0.0,17.66,237.0,93.0,41.0,10.0,4.0,27.0,229.7,29.0,512.0
+Laurynas Birutis,ZAL,Zalgiris Kaunas,C,0.0,13.03,180.0,93.0,12.0,5.0,17.0,24.0,196.4,34.0,443.0
+Lukas Lekavicius,ZAL,Zalgiris Kaunas,G,0.0,6.93,30.0,4.0,7.0,3.0,0.0,10.0,-0.7,14.0,97.0
+Dovydas Giedraitis,ZAL,Zalgiris Kaunas,G,0.0,24.0,174.0,53.0,57.0,19.0,2.0,32.0,145.0,30.0,720.0
+Alen Smailagic,ZAL,Zalgiris Kaunas,F,0.0,15.0,236.0,84.0,12.0,13.0,18.0,27.0,236.7,29.0,435.0
+Bryant Dunston,ZAL,Zalgiris Kaunas,C,0.0,15.71,139.0,113.0,29.0,17.0,17.0,19.0,192.6,34.0,534.0
+Deividas Sirvydis,ZAL,Zalgiris Kaunas,F,0.0,16.53,286.0,90.0,27.0,16.0,3.0,37.0,249.0,34.0,562.0
+Matthew Mitchell,ZAL,Zalgiris Kaunas,F,0.0,14.38,94.0,68.0,27.0,8.0,1.0,24.0,81.8,29.0,417.0
+Sylvain Francisco,ZAL,Zalgiris Kaunas,G,0.0,25.5,495.0,90.0,154.0,32.0,12.0,100.0,555.1,34.0,867.0
+Brady Manek,ZAL,Zalgiris Kaunas,F,0.0,8.92,79.0,29.0,8.0,5.0,1.0,7.0,50.0,24.0,214.0
+Mantas Juzenas,ZAL,Zalgiris Kaunas,G,0.0,0.67,0.0,0.0,0.0,0.0,0.0,0.0,-1.9,3.0,2.0
+Dovydas Buika,ZAL,Zalgiris Kaunas,G,0.0,1.5,0.0,0.0,1.0,1.0,0.0,0.0,0.2,2.0,3.0
+Isaiah Wong,ZAL,Zalgiris Kaunas,G,0.0,12.29,45.0,9.0,7.0,4.0,2.0,5.0,43.0,7.0,86.0
+Kevarrius Hayes,PBB,Paris Basketball,C,0.0,20.24,246.0,173.0,18.0,37.0,32.0,34.0,357.9,38.0,769.0
+Daulton Hommes,PBB,Paris Basketball,F,0.0,12.17,26.0,12.0,4.0,4.0,1.0,2.0,22.6,6.0,73.0
+Yakuba Ouattara,PBB,Paris Basketball,G,0.0,14.86,157.0,62.0,11.0,14.0,2.0,16.0,99.1,35.0,520.0
+Maodo Lo,PBB,Paris Basketball,G,0.0,17.17,291.0,44.0,62.0,13.0,1.0,39.0,243.6,29.0,498.0
+Nadir Hifi,PBB,Paris Basketball,G,0.0,19.97,574.0,79.0,51.0,23.0,0.0,57.0,422.1,38.0,759.0
+Mikael Jantunen,PBB,Paris Basketball,C,0.0,25.53,285.0,184.0,39.0,27.0,8.0,18.0,383.2,38.0,970.0
+Leon Kratzer,PBB,Paris Basketball,C,0.0,9.52,17.0,64.0,5.0,8.0,7.0,21.0,7.6,27.0,257.0
+Sebastian Herrera,PBB,Paris Basketball,G,0.0,11.88,68.0,18.0,9.0,6.0,0.0,2.0,33.8,17.0,202.0
+Bandja Sy,PBB,Paris Basketball,F,0.0,13.51,108.0,72.0,13.0,14.0,11.0,16.0,126.7,35.0,473.0
+Tyson Ward,PBB,Paris Basketball,F,0.0,26.34,418.0,188.0,50.0,36.0,7.0,38.0,455.4,38.0,1001.0
+Collin Malcolm,PBB,Paris Basketball,F,0.0,18.94,253.0,83.0,39.0,12.0,5.0,24.0,252.8,33.0,625.0
+Tj Shorts,PBB,Paris Basketball,G,0.0,27.32,704.0,96.0,271.0,37.0,2.0,83.0,891.2,37.0,1011.0
+Leopold Cavaliere,PBB,Paris Basketball,F,0.0,10.94,102.0,98.0,15.0,9.0,0.0,19.0,141.2,36.0,394.0
+Mathis Dossou-yovo,PBB,Paris Basketball,F,0.0,7.5,4.0,6.0,0.0,0.0,0.0,0.0,6.6,4.0,30.0
